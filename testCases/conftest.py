@@ -1,7 +1,7 @@
 from selenium import webdriver
 import pytest
 from selenium.webdriver.chrome.service import Service
-import xdist
+
 
 @pytest.fixture()
 def setup(browser):
