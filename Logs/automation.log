@@ -1,69 +1,13 @@
-2022-10-20 22:12:34,357 - root - INFO - ***** Test_001_Login *****
-2022-10-20 22:12:34,365 - root - INFO - ***** Verifying Home Page title *****
-2022-10-20 22:12:42,945 - root - INFO - ***** Home Page Title test is passed *****
-2022-10-20 22:12:44,091 - root - INFO - ***** Verifying Login functionality *****
-2022-10-20 22:13:01,218 - root - INFO - ***** Login Passed *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Test_003_AddCustomer *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Test_003_AddCustomer *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Test_003_AddCustomer *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Test_003_AddCustomer *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Login process starts *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Login process starts *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Login process starts *****
-2022-10-20 22:41:31,481 - root - INFO - ***** Login process starts *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Login Successful *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Login Successful *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Login Successful *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Login Successful *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Add Customer Starts *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Add Customer Starts *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Add Customer Starts *****
-2022-10-20 22:41:48,876 - root - INFO - ***** Add Customer Starts *****
-2022-10-20 22:41:54,241 - root - INFO - ***** Providing customer details *****
-2022-10-20 22:41:54,241 - root - INFO - ***** Providing customer details *****
-2022-10-20 22:41:54,241 - root - INFO - ***** Providing customer details *****
-2022-10-20 22:41:54,241 - root - INFO - ***** Providing customer details *****
-2022-10-20 22:41:57,895 - root - INFO - ***** saving customer details *****
-2022-10-20 22:41:57,895 - root - INFO - ***** saving customer details *****
-2022-10-20 22:41:57,895 - root - INFO - ***** saving customer details *****
-2022-10-20 22:41:57,895 - root - INFO - ***** saving customer details *****
-2022-10-20 22:41:57,895 - root - INFO - ***** Validation starts *****
-2022-10-20 22:41:57,895 - root - INFO - ***** Validation starts *****
-2022-10-20 22:41:57,895 - root - INFO - ***** Validation starts *****
-2022-10-20 22:41:57,895 - root - INFO - ***** Validation starts *****
-2022-10-20 22:41:57,928 - root - INFO - ***** Add customer Test passed *****
-2022-10-20 22:41:57,928 - root - INFO - ***** Add customer Test passed *****
-2022-10-20 22:41:57,928 - root - INFO - ***** Add customer Test passed *****
-2022-10-20 22:41:57,928 - root - INFO - ***** Add customer Test passed *****
-2022-10-20 22:41:58,003 - root - INFO - ***** Ending  *****
-2022-10-20 22:41:58,003 - root - INFO - ***** Ending  *****
-2022-10-20 22:41:58,003 - root - INFO - ***** Ending  *****
-2022-10-20 22:41:58,003 - root - INFO - ***** Ending  *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Test_001_Login *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Test_001_Login *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Test_001_Login *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Test_001_Login *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Verifying Home Page title *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Verifying Home Page title *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Verifying Home Page title *****
-2022-10-20 22:41:59,240 - root - INFO - ***** Verifying Home Page title *****
-2022-10-20 22:42:06,536 - root - INFO - ***** Home Page Title test is passed *****
-2022-10-20 22:42:06,536 - root - INFO - ***** Home Page Title test is passed *****
-2022-10-20 22:42:06,536 - root - INFO - ***** Home Page Title test is passed *****
-2022-10-20 22:42:06,536 - root - INFO - ***** Home Page Title test is passed *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Test_004_AddCustomer *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Test_004_AddCustomer *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Test_004_AddCustomer *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Test_004_AddCustomer *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Login process starts *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Login process starts *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Login process starts *****
-2022-10-20 22:42:07,672 - root - INFO - ***** Login process starts *****
-2022-10-20 22:42:22,171 - root - INFO - ***** Login Successful *****
-2022-10-20 22:42:22,171 - root - INFO - ***** Login Successful *****
-2022-10-20 22:42:22,171 - root - INFO - ***** Login Successful *****
-2022-10-20 22:42:22,171 - root - INFO - ***** Login Successful *****
-2022-10-20 22:42:43,792 - root - INFO - ***** Test_004_SearchCustomer finished *****
-2022-10-20 22:42:43,792 - root - INFO - ***** Test_004_SearchCustomer finished *****
-2022-10-20 22:42:43,792 - root - INFO - ***** Test_004_SearchCustomer finished *****
-2022-10-20 22:42:43,792 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2022-10-22 12:21:07,621 - root - INFO - ***** Test_001_Login *****
+2022-10-22 12:21:07,621 - root - INFO - ***** Verifying Home Page title *****
+2022-10-22 12:21:11,230 - root - INFO - ***** Verifying Login functionality *****
+2022-10-22 12:22:09,230 - root - INFO - ***** Test_001_Login *****
+2022-10-22 12:22:09,230 - root - INFO - ***** Verifying Home Page title *****
+2022-10-22 12:22:13,074 - root - INFO - ***** Home Page Title test is passed *****
+2022-10-22 12:22:14,853 - root - INFO - ***** Verifying Login functionality *****
+2022-10-22 12:22:22,424 - root - INFO - ***** Login Passed *****
+2022-10-22 12:25:01,786 - root - INFO - ***** Test_001_Login *****
+2022-10-22 12:25:01,786 - root - INFO - ***** Verifying Home Page title *****
+2022-10-22 12:25:05,568 - root - INFO - ***** Home Page Title test is passed *****
+2022-10-22 12:25:07,369 - root - INFO - ***** Verifying Login functionality *****
+2022-10-22 12:25:15,621 - root - INFO - ***** Login Passed *****

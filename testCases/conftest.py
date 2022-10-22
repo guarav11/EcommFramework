@@ -28,12 +28,22 @@ def browser(request):  # This will return the Browser value to setup method
 
 
 ################ PyTest HTML Report ################
+# def test_metadata(metadata):
+#     assert 'metadata' in metadata['Plugins']
+
+
+def pytest_configure(config):
+  if hasattr(config, '_metadata'):
+      config._metadata['Project Name'] = 'nop Commerce'
+      config._metadata['Module Name'] = 'Customers'
+      config._metadata['Tester'] = 'Gaurav'
+
 
 # It is hook for adding Environment info to HTML Report
-def pytest_configure(config):
-    config._metadata['Project Name'] = 'nop Commerce'    # these are additional info we want to add in out html reports
-    config._metadata['Module Name'] = 'Customers'    # these are additional info we want to add in out html reports
-    config._metadata['Tester'] = 'Gaurav'    # these are additional info we want to add in out html reports
+# def pytest_configure(config):
+#     config._metadata['Project Name'] = 'nop Commerce'    # these are additional info we want to add in out html reports
+#     config._metadata['Module Name'] = 'Customers'    # these are additional info we want to add in out html reports
+#     config._metadata['Tester'] = 'Gaurav'    # these are additional info we want to add in out html reports
 
 # It is hook for delete/Modify Environment info to HTML Report
 @pytest.mark.optionalhook
