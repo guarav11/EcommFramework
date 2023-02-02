@@ -1,8 +1,14 @@
 from selenium.webdriver.common.by import By
+from utilities import XLUtils
+from utilities.XLUtils import readData
+
 
 class SearchCustomer:
     # Add customer page
-    txt_Email_id = "SearchEmail"
+    # txt_Email_id = "SearchEmail"
+    file = "C:\\Users\\Gaurav\\PycharmProjects\\EcommFramework\\TestData\\Xpath.xlsx"
+    sheetname = "SearchC"
+    txt_Email_id = readData(file,sheetname,2,2)
     txt_FirstName_id = "SearchFirstName"
     txtLastName_id = "SearchLastName"
     btnSearch_id = "search-customers"
