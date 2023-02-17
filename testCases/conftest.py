@@ -1,19 +1,27 @@
 from selenium import webdriver
 import pytest
 from selenium.webdriver.chrome.service import Service
-
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+import os
 
 @pytest.fixture()
 def setup(browser):
     if browser=='chrome':
-        serv_obj = Service("C:\\Selenium Browser Drivers\\chromedriver.exe")
-        driver = webdriver.Chrome(service=serv_obj)
+        #serv_obj = Service("C:\\Selenium Browser Drivers\\chromedriver.exe")
+        cwd = os.getcwd()
+        print(cwd)
+        options = webdriver.ChromeOptions()
+        options.add_argument("ignore-certificate-errors")
+        serv_obj = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(options=options, service=serv_obj)
     elif browser=='firefox':
-        serv_obj = Service("C:\\Selenium Browser Drivers\\firefoxdriver.exe")
+        serv_obj = Service(GeckoDriverManager().install())
         driver = webdriver.Firefox(service=serv_obj)
     else:
-        serv_obj = Service("C:\\Selenium Browser Drivers\\Iedriver.exe")
-        driver = webdriver.Ie(service=serv_obj)
+        serv_obj = Service(EdgeChromiumDriverManager().install())
+        driver = webdriver.Edge(service=serv_obj)
 
     return driver
 

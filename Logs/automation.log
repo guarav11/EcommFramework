@@ -26,3 +26,64 @@
 2023-02-02 23:00:43,743 - root - INFO - ***** Login process starts *****
 2023-02-02 23:00:53,305 - root - INFO - ***** Login Successful *****
 2023-02-02 23:01:13,027 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:21:19,468 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:21:19,468 - root - INFO - ***** Login process starts *****
+2023-02-17 11:21:31,012 - root - INFO - ***** Login Successful *****
+2023-02-17 11:21:52,155 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:28:18,348 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:28:19,364 - WDM - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-02-17 11:28:20,681 - WDM - INFO - There is no [win32] chromedriver for browser 110.0.5481 in cache
+2023-02-17 11:28:20,681 - WDM - INFO - About to download new driver from https://chromedriver.storage.googleapis.com/110.0.5481.77/chromedriver_win32.zip
+2023-02-17 11:28:23,120 - WDM - INFO - Driver has been saved in cache [C:\Users\Gaurav\.wdm\drivers\chromedriver\win32\110.0.5481]
+2023-02-17 11:28:25,310 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:28:25,310 - root - INFO - ***** Login process starts *****
+2023-02-17 11:28:33,748 - root - INFO - ***** Login Successful *****
+2023-02-17 11:28:53,300 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:35:43,543 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:35:45,278 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-17 11:35:47,299 - WDM - INFO - There is no [win64] edgedriver for browser 110.0.1587 in cache
+2023-02-17 11:35:47,299 - WDM - INFO - About to download new driver from https://msedgedriver.azureedge.net/110.0.1587.49/edgedriver_win64.zip
+2023-02-17 11:36:35,544 - WDM - INFO - Driver has been saved in cache [C:\Users\Gaurav\.wdm\drivers\edgedriver\win64\110.0.1587]
+2023-02-17 11:36:37,364 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:36:37,364 - root - INFO - ***** Login process starts *****
+2023-02-17 11:36:45,199 - root - INFO - ***** Login Successful *****
+2023-02-17 11:37:54,904 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:37:56,265 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-17 11:37:58,309 - WDM - INFO - Driver [C:\Users\Gaurav\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-17 11:38:01,828 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:38:01,828 - root - INFO - ***** Login process starts *****
+2023-02-17 11:38:11,786 - root - INFO - ***** Login Successful *****
+2023-02-17 11:38:31,312 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:39:20,312 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:39:21,908 - WDM - INFO - Get LATEST geckodriver version for None firefox
+2023-02-17 11:39:24,140 - WDM - INFO - There is no [win64] geckodriver for browser None in cache
+2023-02-17 11:39:24,140 - WDM - INFO - Getting latest mozilla release info for v0.32.2
+2023-02-17 11:39:24,812 - WDM - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.32.2/geckodriver-v0.32.2-win64.zip
+2023-02-17 11:39:27,586 - WDM - INFO - Driver has been saved in cache [C:\Users\Gaurav\.wdm\drivers\geckodriver\win64\0.32]
+2023-02-17 11:41:15,975 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:41:16,883 - WDM - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-02-17 11:41:18,293 - WDM - INFO - Driver [C:\Users\Gaurav\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+2023-02-17 11:41:20,149 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:41:20,149 - root - INFO - ***** Login process starts *****
+2023-02-17 11:41:29,905 - root - INFO - ***** Login Successful *****
+2023-02-17 11:41:50,135 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:44:49,231 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:44:50,154 - WDM - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-02-17 11:44:51,573 - WDM - INFO - Driver [C:\Users\Gaurav\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+2023-02-17 11:44:53,204 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:44:53,204 - root - INFO - ***** Login process starts *****
+2023-02-17 11:45:02,551 - root - INFO - ***** Login Successful *****
+2023-02-17 11:45:23,794 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:46:22,009 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:46:22,931 - WDM - INFO - Get LATEST chromedriver version for google-chrome 110.0.5481
+2023-02-17 11:46:24,121 - WDM - INFO - Driver [C:\Users\Gaurav\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+2023-02-17 11:46:25,778 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:46:25,786 - root - INFO - ***** Login process starts *****
+2023-02-17 11:46:36,537 - root - INFO - ***** Login Successful *****
+2023-02-17 11:46:56,342 - root - INFO - ***** Test_004_SearchCustomer finished *****
+2023-02-17 11:50:16,700 - WDM - INFO - ====== WebDriver manager ======
+2023-02-17 11:50:18,034 - WDM - INFO - Get LATEST edgedriver version for 110.0.1587 Edge
+2023-02-17 11:50:19,911 - WDM - INFO - Driver [C:\Users\Gaurav\.wdm\drivers\edgedriver\win64\110.0.1587\msedgedriver.exe] found in cache
+2023-02-17 11:50:23,643 - root - INFO - ***** Test_004_AddCustomer *****
+2023-02-17 11:50:23,643 - root - INFO - ***** Login process starts *****
+2023-02-17 11:50:33,959 - root - INFO - ***** Login Successful *****
